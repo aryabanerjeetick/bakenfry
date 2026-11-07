@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- 
+    Bake N Fry Official XML Sitemap
+    Replace 'https://aryabanerjeetick.github.io/bakenfry/' with your active SITE_URL
+  -->
+  <url>
+    <loc>https://aryabanerjeetick.github.io/bakenfry/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+
+    <!-- Image 1: Main Cafe Ambience & Cozy Seating -->
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SqfbbwZu8hGIZsz2g_-3WBsmIoHpAWqcAajxgoefIpDYRDF3Nb6S7O-f9v8qgfdu3aBu6Rs20ppA0_piM32dLHXQhHmjQq2TcWml3E96oraXsg4mcys2R9LD5GSx3gLv4eZcF-JE31rfUf=w1600</image:loc>
+      <image:title>Bake N Fry Cozy Cafe Seating &amp; Ambience in Baranagar</image:title>
+      <image:caption>Warm lighting and comfortable seating at Bake N Fry Cafe on B.T. Road, Baranagar, Kolkata.</image:caption>
+    </image:image>
+
+    <!-- Image 2: Exterior Welcome Signboard -->
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/grass-cs/AABkmLcw3_ZlzQFDoyQxsO3Y-If5k5FlUojqt81hFtQxa-r4gqbFbjASMprMIlttl3KEjuaWUnwuxKr5Z-JJsstDmymG_yvMvFUT74dIxN8uCJ3CiB7wtjYYXpUj5fZKEwQ4LBVHGBL8lGAzpLg1=s1200</image:loc>
+      <image:title>Bake N Fry Storefront Entrance on B.T. Road</image:title>
+      <image:caption>Front entrance and display counter of Bake N Fry at 44/5 Barrackpore Trunk Road, Baranagar.</image:caption>
+    </image:image>
+
+    <!-- Image 3: Signature Creamy White Sauce Pasta -->
+    <image:image>
+      <image:loc>https://aryabanerjeetick.github.io/bakenfry/images/menu/white-sauce-pasta.jpg</image:loc>
+      <image:title>Signature Creamy White Sauce Pasta at Bake N Fry</image:title>
+      <image:caption>Silky garlic parmesan bechamel sauce penne pasta with sweet corn and bell peppers.</image:caption>
+    </image:image>
+
+    <!-- Image 4: Signature Chicken Cheese Sandwich -->
+    <image:image>
+      <image:loc>https://aryabanerjeetick.github.io/bakenfry/images/menu/chicken-cheese-sandwich.jpg</image:loc>
+      <image:title>Signature Chicken Cheese Sandwich at Bake N Fry</image:title>
+      <image:caption>Grilled artisan bread stuffed with juicy roasted herb chicken and melted mozzarella cheese.</image:caption>
+    </image:image>
+
+    <!-- Image 5: Authentic Kolkata Fish Fry -->
+    <image:image>
+      <image:loc>https://aryabanerjeetick.github.io/bakenfry/images/menu/kolkata-fish-fry.jpg</image:loc>
+      <image:title>Authentic Kolkata Fish Fry with Kasundi at Bake N Fry</image:title>
+      <image:caption>Crispy golden Kolkata fish fry served with authentic kasundi mustard sauce.</image:caption>
+    </image:image>
+
+    <!-- Image 6: Hearty Chicken Protein Bowl -->
+    <image:image>
+      <image:loc>https://aryabanerjeetick.github.io/bakenfry/images/menu/chicken-protein-bowl.jpg</image:loc>
+      <image:title>Hearty Chicken Protein Bowl at Bake N Fry</image:title>
+      <image:caption>Grilled chicken breast with sauteed farm greens, sweet corn, boiled eggs and honey-mustard vinaigrette.</image:caption>
+    </image:image>
+
+    <!-- Image 7: Crispy French Fries -->
+    <image:image>
+      <image:loc>https://aryabanerjeetick.github.io/bakenfry/images/menu/french-fries.jpg</image:loc>
+      <image:title>Crispy Golden French Fries at Bake N Fry</image:title>
+      <image:caption>Double-fried crispy golden potato fries tossed in rock salt and café herbs.</image:caption>
+    </image:image>
+
+    <!-- Image 7: Acoustic Live Music & Corner -->
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SD3ImMETR5M75_m7Ye6y0_MrvbkC6ziYdBHg5QUm4z1Dm4JMlXLD45tl-JkUKKLDR1hRYPTgqz9q7xzy5yIB5MUcvqS3zli5spV4heTBzk4nI0c8OAQwWQOBbcOSR0BID9YIauOPrft6I=s1200</image:loc>
+      <image:title>Live Acoustic Music Corner at Bake N Fry</image:title>
+      <image:caption>Acoustic music vibe and cozy seating corner at Bake N Fry Cafe.</image:caption>
+    </image:image>
+  </url>
+</urlset>

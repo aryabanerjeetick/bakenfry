@@ -1,0 +1,32 @@
+# ==============================================================================
+# robots.txt for Bake N Fry (Baranagar, Kolkata)
+# ==============================================================================
+# Allows full indexing across Google, Bing, Yahoo, DuckDuckGo, and Apple Search
+# ==============================================================================
+
+User-agent: *
+Allow: /
+
+# Explicit directives for major crawler bots
+User-agent: Googlebot
+Allow: /
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# XML Sitemap Location (Domain-independent)
+Sitemap: sitemap.xml
